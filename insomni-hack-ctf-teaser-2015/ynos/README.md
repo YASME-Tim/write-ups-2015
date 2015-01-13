@@ -6,7 +6,7 @@
 **Description:**
 
 > <https://www.youtube.com/watch?v=O2rGTXHvPCQ>
-> <a href="http://www.youtube.com/watch?feature=player_embedded&v=O2rGTXHvPCQ" target="_blank"><img src="http://img.youtube.com/vi/O2rGTXHvPCQ/0.jpg" width="240" height="180" border="10" /></a>
+> <a href="http://www.youtube.com/watch?feature=player_embedded&v=O2rGTXHvPCQ" target="_blank"><img src="http://img.youtube.com/vi/O2rGTXHvPCQ/0.jpg" width="640" height="480" border="10" /></a>
 > 
 > <a href="http://www.youtube.com/watch?feature=player_embedded&v=O2rGTXHvPCQ" target="_blank"><img src="http://img.youtube.com/vi/O2rGTXHvPCQ/0.jpg" border="10" width="560" height="315"/></a>
 >
